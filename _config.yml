@@ -1,0 +1,28 @@
+name: aaron
+favicon: null
+layout_spectrum: 0.8473482325207442
+typography_spectrum: 0.46706154360435903
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.755564198596403
+  lightness: 0.37211137101985514
+  saturation: 0.6091456196736544
+  rhythmicContrast: 0.7519477375317365
+purpose: []
